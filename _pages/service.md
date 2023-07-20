@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+<div class="publications">
+{% bibliography -f mf  %}
+</div>
+
 ### Program Committee of Reviewer
 
 todo
